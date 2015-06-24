@@ -21,8 +21,11 @@ the city!
 </figure>
 
 This Airbnb is located in [Le Marais](https://en.wikipedia.org/wiki/Le_Marais).
-Vikram was interested in staying in Le Marais because he had heard good things
-from a friend.  I definitely want to walk around the other neighborhoods in
+Vikram was interested in staying in Le Marais and described it as:
+
+>  the youngest / most “hip” / best nightlife place
+
+I definitely want to walk around the other neighborhoods in
 Paris to get a feel for the different areas.
 
 <figure>
