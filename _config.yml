@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Europe 2015
 locale: en_US
-description: Describe your website here.
+description: Garrett, George, and Vikram take a trip to Europe, traveling through England, Scotland, France, and Italy.
 logo: site-logo.png
 search: true
 url: /blog
@@ -36,10 +36,10 @@ owner:
   email: georgepearman@me.com
   disqus-shortname:
   twitter: #username
-  facebook: #username
-  github: #username
+  facebook: georgepearman#username
+  github: georgepearman#username
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: georgepearman #username
   instagram: #username
   flickr: #username
   tumblr: #username
