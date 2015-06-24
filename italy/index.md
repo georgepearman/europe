@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Italy
+excerpt: "Posts about Italy"
 search_omit: true
 ---
+
+There will be content here soon, stay tuned!
 
 <ul class="post-list">
 {% for post in site.categories.italy %} 

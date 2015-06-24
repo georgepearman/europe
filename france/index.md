@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: France
+excerpt: "Posts about France"
 search_omit: true
 ---
+
+We're not in France yet, stay tuned.
 
 <ul class="post-list">
 {% for post in site.categories.france %} 

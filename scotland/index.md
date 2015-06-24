@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Sample Articles
-excerpt: "An archive of articles sorted by date."
+title: Scotland
+excerpt: "Posts about Scotland"
 search_omit: true
 ---
+
+Visit us later for some Scotland content!
 
 <ul class="post-list">
 {% for post in site.categories.scotland %} 
