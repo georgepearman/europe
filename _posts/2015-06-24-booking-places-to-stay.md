@@ -8,6 +8,29 @@ comments: true
 share: true
 ---
 
+### Paris, France
+
+The Paris Airbnb seems small from the pictures.  Worth it for being close to
+the city!
+
+<figure class="third">
+	<a href="{{site.url}}/images/airbnb_post/paris.jpg"><img src="{{site.url}}/images/airbnb_post/paris.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/airbnb_post/paris2.jpg"><img src="{{site.url}}/images/airbnb_post/paris2.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/airbnb_post/paris3.jpg"><img src="{{site.url}}/images/airbnb_post/paris3.jpg" alt="image"></a>
+	<figcaption>Paris accomodation</figcaption>
+</figure>
+
+This Airbnb is located in [Le Marais](https://en.wikipedia.org/wiki/Le_Marais).
+Vikram was interested in staying in Le Marais because he had heard good things
+from a friend.  I definitely want to walk around the other neighborhoods in
+Paris to get a feel for the different areas.
+
+<figure>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/paris_map.png" title="Approximate location of our Paris Airbnb"><img src="{{site.url}}/images/airbnb_post/paris_map.png" alt="image">Approximate location of our Paris Airbnb</a>.</figcaption>
+</figure>
+
+---
+
 ### Milan, Italy
 
 The Milan Airbnb looks gorgeous!
