@@ -21,6 +21,6 @@ drive through [France](/france) to [Italy](/italy), and will end our trip in
 Rome.  If you have suggestions for places to visit, please [drop us
 a line](mailto:georgepearman@me.com)!
 
-After Europe, George will start work at [LinkedIn](https://www.linkedin.com),
-Vikram will continue his work at the [AMPLab](https://amplab.cs.berkeley.edu),
-and Garrett will join [Pivotal Labs](http://pivotallabs.com).
+After Europe, [George](http://georgepearman.com) will start work at [LinkedIn](https://www.linkedin.com),
+[Vikram](http://www.vikrams.io) will continue his work at the [AMPLab](https://amplab.cs.berkeley.edu),
+and [Garrett](http://garrettf.com) will join [Pivotal Labs](http://pivotallabs.com).
