@@ -8,6 +8,46 @@ comments: true
 share: true
 ---
 
+### London, England
+
+<figure class="half">
+	<a href="{{site.url}}/images/airbnb_post/london11.jpg"><img src="{{site.url}}/images/airbnb_post/london11.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/airbnb_post/london12.jpg"><img src="{{site.url}}/images/airbnb_post/london12.jpg" alt="image"></a>
+	<figcaption>London accomodation</figcaption>
+</figure>
+
+<figure>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map1.png" title="Approximate location of our first London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map1.png" alt="image">Approximate location of our first London Airbnb</a>.</figcaption>
+</figure>
+
+---
+
+### Newcastle, England
+
+---
+
+### Edinburgh, Scotland
+
+---
+
+### Glasgow, Scotland
+
+---
+
+### London, England
+
+<figure class="half">
+	<a href="{{site.url}}/images/airbnb_post/london21.jpg"><img src="{{site.url}}/images/airbnb_post/london21.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/airbnb_post/london22.jpg"><img src="{{site.url}}/images/airbnb_post/london22.jpg" alt="image"></a>
+	<figcaption>London accomodation</figcaption>
+</figure>
+
+<figure>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map2.png" title="Approximate location of our second London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map2.png" alt="image">Approximate location of our second London Airbnb</a>.</figcaption>
+</figure>
+
+---
+
 ### Paris, France
 
 The Paris Airbnb seems small from the pictures.  Worth it for being close to
@@ -23,13 +63,42 @@ the city!
 This Airbnb is located in [Le Marais](https://en.wikipedia.org/wiki/Le_Marais).
 Vikram was interested in staying in Le Marais and described it as:
 
->  the youngest / most “hip” / best nightlife place
+> the youngest / most “hip” / best nightlife place
 
 I definitely want to walk around the other neighborhoods in
 Paris to get a feel for the different areas.
 
 <figure>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/paris_map.png" title="Approximate location of our Paris Airbnb"><img src="{{site.url}}/images/airbnb_post/paris_map.png" alt="image">Approximate location of our Paris Airbnb</a>.</figcaption>
+</figure>
+
+---
+
+### Lyon, France
+
+<figure class="half">
+	<a href="{{site.url}}/images/airbnb_post/lyon.jpg"><img src="{{site.url}}/images/airbnb_post/lyon.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/airbnb_post/lyon2.jpg"><img src="{{site.url}}/images/airbnb_post/lyon2.jpg" alt="image"></a>
+	<figcaption>Lyon accomodation</figcaption>
+</figure>
+
+<figure>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/lyon_map.png" title="Approximate location of our Lyon Airbnb"><img src="{{site.url}}/images/airbnb_post/lyon_map.png" alt="image">Approximate location of our Lyon Airbnb</a>.</figcaption>
+</figure>
+
+---
+
+### Marseille, France
+
+<figure class="third">
+	<a href="{{site.url}}/images/airbnb_post/marseille.jpg"><img src="{{site.url}}/images/airbnb_post/marseille.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/airbnb_post/marseille2.jpg"><img src="{{site.url}}/images/airbnb_post/marseille2.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/airbnb_post/marseille3.jpg"><img src="{{site.url}}/images/airbnb_post/marseille3.jpg" alt="image"></a>
+	<figcaption>Marseille accomodation</figcaption>
+</figure>
+
+<figure>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/marseille_map.png" title="Approximate location of our Marseille Airbnb"><img src="{{site.url}}/images/airbnb_post/marseille_map.png" alt="image">Approximate location of our Marseille Airbnb</a>.</figcaption>
 </figure>
 
 ---
