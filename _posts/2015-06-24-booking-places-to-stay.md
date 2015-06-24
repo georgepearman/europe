@@ -22,7 +22,6 @@ The Milan AirBnb looks gorgeous!
 Our Milan AirBnb is less than half a mile from the city center:
 
 <figure>
-	<a href="{{site.url}}/images/airbnb_post/milan_map.png"><img src="{{site.url}}/images/airbnb_post/milan_map.png" alt="image"></a>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/milan_map.png" title="Approximate location of our Milan AirBnb">Approximate location of our Milan AirBnb</a>.</figcaption>
 </figure>
 
@@ -43,7 +42,6 @@ Florence.  We will probably drive further into the countryside at least one day
 while staying in Florence. 
 
 <figure>
-	<a href="{{site.url}}/images/airbnb_post/florence_map.png"><img src="{{site.url}}/images/airbnb_post/florence_map.png" alt="image"></a>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/florence_map.png" title="Approximate location of our Florence AirBnb">Approximate location of our Florence AirBnb</a>.</figcaption>
 </figure>
 
@@ -62,7 +60,6 @@ This Rome AirBnb is located in a fairly central part of the city.  We're
 excited that most everything is within walking distance.
 
 <figure>
-	<a href="{{site.url}}/images/airbnb_post/rome_map.png"><img src="{{site.url}}/images/airbnb_post/rome_map.png" alt="image"></a>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/rome_map.png" title="Approximate location of our Rome AirBnb">Approximate location of our Rome AirBnb</a>.</figcaption>
 </figure>
 
