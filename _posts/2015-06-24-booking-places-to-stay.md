@@ -8,13 +8,26 @@ comments: true
 share: true
 ---
 
+We're primarily using (Airbnb)[http://airbnb.com] to book our accomodation
+while in Europe.  With three people staying together, the price of an Airbnb is
+often the same or better than a hotel.  Additionally, we are often able to
+rent out an entire apartment, which means we have the ability to cook and
+potentially save money on food.
+
 ### London, England
+
+We found London accomodation to be very expensive when compared to other
+destinations on this trip.  We are renting a large room in this first apartment
+and will be staying there for the first two nights.
 
 <figure class="half">
 	<a href="{{site.url}}/images/airbnb_post/london11.jpg"><img src="{{site.url}}/images/airbnb_post/london11.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/london12.jpg"><img src="{{site.url}}/images/airbnb_post/london12.jpg" alt="image"></a>
 	<figcaption>London accomodation</figcaption>
 </figure>
+
+All of the places within our budget are about 30 minutes from the center of
+London when using public transportation.
 
 <figure>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map1.png" title="Approximate location of our first London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map1.png" alt="image">Approximate location of our first London Airbnb</a>.</figcaption>
@@ -36,11 +49,17 @@ share: true
 
 ### London, England
 
+This room comes with a bed and a cot.  We will have to draw straws to see who
+gets the cot!
+
 <figure class="half">
 	<a href="{{site.url}}/images/airbnb_post/london21.jpg"><img src="{{site.url}}/images/airbnb_post/london21.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/london22.jpg"><img src="{{site.url}}/images/airbnb_post/london22.jpg" alt="image"></a>
 	<figcaption>London accomodation</figcaption>
 </figure>
+
+Once again we found accomodation in London with around a 30 minute commute to
+the center of the city.
 
 <figure>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map2.png" title="Approximate location of our second London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map2.png" alt="image">Approximate location of our second London Airbnb</a>.</figcaption>
@@ -65,8 +84,8 @@ Vikram was interested in staying in Le Marais and described it as:
 
 > the youngest / most “hip” / best nightlife place
 
-I definitely want to walk around the other neighborhoods in
-Paris to get a feel for the different areas.
+I definitely want to walk around the other neighborhoods in Paris to get a feel
+for the different areas.
 
 <figure>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/paris_map.png" title="Approximate location of our Paris Airbnb"><img src="{{site.url}}/images/airbnb_post/paris_map.png" alt="image">Approximate location of our Paris Airbnb</a>.</figcaption>
@@ -82,6 +101,10 @@ Paris to get a feel for the different areas.
 	<figcaption>Lyon accomodation</figcaption>
 </figure>
 
+Our Lyon Airbnb is located between [La
+Saône](https://en.wikipedia.org/wiki/Saône) and [La
+Rhône](https://en.wikipedia.org/wiki/Rhône).
+
 <figure>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/lyon_map.png" title="Approximate location of our Lyon Airbnb"><img src="{{site.url}}/images/airbnb_post/lyon_map.png" alt="image">Approximate location of our Lyon Airbnb</a>.</figcaption>
 </figure>
@@ -96,6 +119,10 @@ Paris to get a feel for the different areas.
 	<a href="{{site.url}}/images/airbnb_post/marseille3.jpg"><img src="{{site.url}}/images/airbnb_post/marseille3.jpg" alt="image"></a>
 	<figcaption>Marseille accomodation</figcaption>
 </figure>
+
+The Airbnb that we found in Marseille is extremely close to the [Vieux-Port de
+Marseille](https://en.wikipedia.org/wiki/Old_Port_of_Marseille).  As a big fan
+of *The Count of Monte Cristo*, I'm excited to see this location!
 
 <figure>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/marseille_map.png" title="Approximate location of our Marseille Airbnb"><img src="{{site.url}}/images/airbnb_post/marseille_map.png" alt="image">Approximate location of our Marseille Airbnb</a>.</figcaption>
