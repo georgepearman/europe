@@ -37,9 +37,16 @@ London when using public transportation.
 
 ### Newcastle, England
 
+We're staying one night in Newcastle on our drive from London to Edinburgh.
+Since we don't know how fast the drive is going to be or the time that we are
+going to arrive in Newcastle, staying in a hotel appeals for this location
+since we can check in at any time.
+
 ---
 
 ### Edinburgh, Scotland
+
+We found an Airbnb located close to the [University of Edinburgh](http://www.ed.ac.uk/home)
 
 ---
 
@@ -127,6 +134,10 @@ of *The Count of Monte Cristo*, I'm excited to see this location!
 <figure>
 	<figcaption><a href="{{site.url}}/images/airbnb_post/marseille_map.png" title="Approximate location of our Marseille Airbnb"><img src="{{site.url}}/images/airbnb_post/marseille_map.png" alt="image">Approximate location of our Marseille Airbnb</a>.</figcaption>
 </figure>
+
+---
+
+### Nice, France
 
 ---
 
