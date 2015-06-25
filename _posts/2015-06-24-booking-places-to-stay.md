@@ -23,14 +23,14 @@ and will be staying there for the first two nights.
 <figure class="half">
 	<a href="{{site.url}}/images/airbnb_post/london11.jpg"><img src="{{site.url}}/images/airbnb_post/london11.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/london12.jpg"><img src="{{site.url}}/images/airbnb_post/london12.jpg" alt="image"></a>
-	<figcaption>London accomodation</figcaption>
+	<figcaption> <i>London accomodation</i> </figcaption>
 </figure>
 
 All of the places within our budget are about 30 minutes from the center of
 London when using public transportation.
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map1.png" title="Approximate location of our first London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map1.png" alt="image">Approximate location of our first London Airbnb</a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map1.png" title="Approximate location of our first London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map1.png" alt="image"><i>Approximate location of our first London Airbnb</i></a>.</figcaption>
 </figure>
 
 ---
@@ -62,14 +62,14 @@ gets the cot!
 <figure class="half">
 	<a href="{{site.url}}/images/airbnb_post/london21.jpg"><img src="{{site.url}}/images/airbnb_post/london21.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/london22.jpg"><img src="{{site.url}}/images/airbnb_post/london22.jpg" alt="image"></a>
-	<figcaption>London accomodation</figcaption>
+	<figcaption><i>London accomodation</i></figcaption>
 </figure>
 
 Once again we found accomodation in London with around a 30 minute commute to
 the center of the city.
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map2.png" title="Approximate location of our second London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map2.png" alt="image">Approximate location of our second London Airbnb</a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map2.png" title="Approximate location of our second London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map2.png" alt="image"><i>Approximate location of our second London Airbnb</i></a>.</figcaption>
 </figure>
 
 ---
@@ -83,7 +83,7 @@ the city!
 	<a href="{{site.url}}/images/airbnb_post/paris.jpg"><img src="{{site.url}}/images/airbnb_post/paris.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/paris2.jpg"><img src="{{site.url}}/images/airbnb_post/paris2.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/paris3.jpg"><img src="{{site.url}}/images/airbnb_post/paris3.jpg" alt="image"></a>
-	<figcaption>Paris accomodation</figcaption>
+	<figcaption><i>Paris accomodation</i></figcaption>
 </figure>
 
 This Airbnb is located in [Le Marais](https://en.wikipedia.org/wiki/Le_Marais).
@@ -95,7 +95,7 @@ I definitely want to walk around the other neighborhoods in Paris to get a feel
 for the different areas.
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/paris_map.png" title="Approximate location of our Paris Airbnb"><img src="{{site.url}}/images/airbnb_post/paris_map.png" alt="image">Approximate location of our Paris Airbnb</a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/paris_map.png" title="Approximate location of our Paris Airbnb"><img src="{{site.url}}/images/airbnb_post/paris_map.png" alt="image"><i>Approximate location of our Paris Airbnb</i></a>.</figcaption>
 </figure>
 
 ---
@@ -105,7 +105,7 @@ for the different areas.
 <figure class="half">
 	<a href="{{site.url}}/images/airbnb_post/lyon.jpg"><img src="{{site.url}}/images/airbnb_post/lyon.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/lyon2.jpg"><img src="{{site.url}}/images/airbnb_post/lyon2.jpg" alt="image"></a>
-	<figcaption>Lyon accomodation</figcaption>
+	<figcaption><i>Lyon accomodation</i></figcaption>
 </figure>
 
 Our Lyon Airbnb is located between [La
@@ -113,7 +113,7 @@ Saône](https://en.wikipedia.org/wiki/Saône) and [La
 Rhône](https://en.wikipedia.org/wiki/Rhône).
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/lyon_map.png" title="Approximate location of our Lyon Airbnb"><img src="{{site.url}}/images/airbnb_post/lyon_map.png" alt="image">Approximate location of our Lyon Airbnb</a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/lyon_map.png" title="Approximate location of our Lyon Airbnb"><img src="{{site.url}}/images/airbnb_post/lyon_map.png" alt="image"><i>Approximate location of our Lyon Airbnb</i></a>.</figcaption>
 </figure>
 
 ---
@@ -124,7 +124,7 @@ Rhône](https://en.wikipedia.org/wiki/Rhône).
 	<a href="{{site.url}}/images/airbnb_post/marseille.jpg"><img src="{{site.url}}/images/airbnb_post/marseille.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/marseille2.jpg"><img src="{{site.url}}/images/airbnb_post/marseille2.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/marseille3.jpg"><img src="{{site.url}}/images/airbnb_post/marseille3.jpg" alt="image"></a>
-	<figcaption>Marseille accomodation</figcaption>
+	<figcaption><i>Marseille accomodation</i></figcaption>
 </figure>
 
 The Airbnb that we found in Marseille is extremely close to the [Vieux-Port de
@@ -132,7 +132,7 @@ Marseille](https://en.wikipedia.org/wiki/Old_Port_of_Marseille).  As a big fan
 of *The Count of Monte Cristo*, I'm excited to see this location!
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/marseille_map.png" title="Approximate location of our Marseille Airbnb"><img src="{{site.url}}/images/airbnb_post/marseille_map.png" alt="image">Approximate location of our Marseille Airbnb</a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/marseille_map.png" title="Approximate location of our Marseille Airbnb"><img src="{{site.url}}/images/airbnb_post/marseille_map.png" alt="image"><i>Approximate location of our Marseille Airbnb</i></a>.</figcaption>
 </figure>
 
 ---
@@ -149,13 +149,13 @@ The Milan Airbnb looks gorgeous!
 	<a href="{{site.url}}/images/airbnb_post/milan.jpg"><img src="{{site.url}}/images/airbnb_post/milan.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/milan2.jpg"><img src="{{site.url}}/images/airbnb_post/milan2.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/milan3.jpg"><img src="{{site.url}}/images/airbnb_post/milan3.jpg" alt="image"></a>
-	<figcaption>Milan accomodation</figcaption>
+	<figcaption><i>Milan accomodation</i></figcaption>
 </figure>
 
 Our Milan Airbnb is less than half a mile from the city center:
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/milan_map.png" title="Approximate location of our Milan Airbnb"><img src="{{site.url}}/images/airbnb_post/milan_map.png" alt="image">Approximate location of our Milan Airbnb</a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/milan_map.png" title="Approximate location of our Milan Airbnb"><img src="{{site.url}}/images/airbnb_post/milan_map.png" alt="image"><i>Approximate location of our Milan Airbnb</i></a>.</figcaption>
 </figure>
 
 ---
@@ -168,7 +168,7 @@ Tuscany.
 <figure class="half">
 	<a href="{{site.url}}/images/airbnb_post/florence.jpg"><img src="{{site.url}}/images/airbnb_post/florence.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/florence2.jpg"><img src="{{site.url}}/images/airbnb_post/florence2.jpg" alt="image"></a>
-	<figcaption>Florence Airbnb</figcaption>
+	<figcaption><i>Florence Airbnb</i></figcaption>
 </figure>
 
 Parking is going to be difficult in Florence.  I expect that we will park
@@ -177,7 +177,7 @@ Florence.  We will probably drive further into the countryside at least one day
 while staying in Florence. 
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/florence_map.png" title="Approximate location of our Florence Airbnb"><img src="{{site.url}}/images/airbnb_post/florence_map.png" alt="image">Approximate location of our Florence Airbnb</a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/florence_map.png" title="Approximate location of our Florence Airbnb"><img src="{{site.url}}/images/airbnb_post/florence_map.png" alt="image"><i>Approximate location of our Florence Airbnb</i></a>.</figcaption>
 </figure>
 
 ---
@@ -190,13 +190,13 @@ Here are some pictures of the place we are staying at while in Rome:
 	<a href="{{site.url}}/images/airbnb_post/rome.jpg"><img src="{{site.url}}/images/airbnb_post/rome.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/rome2.jpg"><img src="{{site.url}}/images/airbnb_post/rome2.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/airbnb_post/rome3.jpg"><img src="{{site.url}}/images/airbnb_post/rome3.jpg" alt="image"></a>
-	<figcaption>Rome accomodation</figcaption>
+	<figcaption><i>Rome accomodation</i></figcaption>
 </figure>
 
 This Rome Airbnb is located in a fairly central part of the city.  We're
 excited that most everything is within walking distance.
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/rome_map.png" title="Approximate location of our Rome Airbnb" alt="image"><img src="{{site.url}}/images/airbnb_post/rome_map.png" alt="image">Approximate location of our Rome Airbnb</a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/rome_map.png" title="Approximate location of our Rome Airbnb" alt="image"><img src="{{site.url}}/images/airbnb_post/rome_map.png" alt="image"><i>Approximate location of our Rome Airbnb</i></a>.</figcaption>
 </figure>
 
