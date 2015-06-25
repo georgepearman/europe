@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-We're primarily using (Airbnb)[http://airbnb.com] to book our accomodation
+We're primarily using [Airbnb](http://airbnb.com) to book our accomodation
 while in Europe.  With three people staying together, the price of an Airbnb is
 often the same or better than a hotel.  Additionally, we are often able to
 rent out an entire apartment, which means we have the ability to cook and
