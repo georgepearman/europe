@@ -2,6 +2,7 @@
 layout: page
 title: France
 excerpt: "Posts about France"
+categories: france
 search_omit: true
 ---
 

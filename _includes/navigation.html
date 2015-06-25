@@ -24,7 +24,15 @@
 </header><!-- /.masthead -->
 {% else %}<header class="masthead">
 	<div class="wrap">
-      {% if site.logo != null %}
+       {% if page.categories contains "england" %}
+  		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/england-logo.png" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
+       {% elsif page.categories contains "scotland" %}
+  		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/scotland-logo.png" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
+       {% elsif page.categories contains "france" %}
+  		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/france-logo.png" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
+       {% elsif page.categories contains "italy" %}
+  		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/italy-logo.png" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
+      {% elsif site.logo != null %}
   		<a href="{{ site.url }}/" class="site-logo" rel="home" title="{{ site.title }}"><img src="{{ site.url }}/images/{{ site.logo }}" width="200" height="200" alt="{{ site.title }} logo" class="animated fadeInDown"></a>
       {% endif %}
       <h1 class="site-title animated fadeIn"><a href="{{ site.url }}/">{{ site.title }}</a></h1>

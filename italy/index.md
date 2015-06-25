@@ -3,6 +3,7 @@ layout: page
 title: Italy
 excerpt: "Posts about Italy"
 search_omit: true
+categories: italy
 ---
 
 There will be content here soon, stay tuned!

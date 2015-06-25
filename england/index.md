@@ -3,6 +3,7 @@ layout: page
 title: England
 excerpt: "Posts about England"
 search_omit: true
+categories: england
 ---
 
 There will be content here soon! Stay tuned :)

@@ -2,6 +2,7 @@
 layout: page
 title: Scotland
 excerpt: "Posts about Scotland"
+categories: scotland
 search_omit: true
 ---
 
