@@ -15,10 +15,10 @@ Science](https://imgs.xkcd.com/comics/donald_knuth.png) and suffered through
 courses like [164](http://www-inst.eecs.berkeley.edu/~cs164/sp15/) together.
 
 We're going on a 4 week trip to Europe together this summer.  We will be
-starting in [England](/england), heading up to [Scotland](/scotland), and then
+starting in [England](/europe/england), heading up to [Scotland](/europe/scotland), and then
 returning to London to take the EuroStar to Paris.  After Paris we will 
-drive through [France](/france) to [Italy](/italy), and will end our trip in
-Rome.  [Click here](/findus) to view our current location. If you have
+drive through [France](/europe/france) to [Italy](/europe/italy), and will end our trip in
+Rome.  [Click here](/europe/findus) to view our current location. If you have
 suggestions for places to visit, please [drop us
 a line](mailto:georgepearman@me.com)!
 
