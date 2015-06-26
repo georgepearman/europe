@@ -1,7 +1,7 @@
 ---
 layout: page
-title: UC Berkeley
+title: LAX
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: UC Berkeley
+locations: LAX
 search_omit: true
 ---
