@@ -18,7 +18,8 @@ We're going on a 4 week trip to Europe together this summer.  We will be
 starting in [England](/england), heading up to [Scotland](/scotland), and then
 returning to London to take the EuroStar to Paris.  After Paris we will 
 drive through [France](/france) to [Italy](/italy), and will end our trip in
-Rome.  If you have suggestions for places to visit, please [drop us
+Rome.  [Click here](/findus) to view our current location. If you have
+suggestions for places to visit, please [drop us
 a line](mailto:georgepearman@me.com)!
 
 After Europe, [George](http://georgepearman.com) will start work at [LinkedIn](https://www.linkedin.com),
