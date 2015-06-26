@@ -1,7 +1,7 @@
 ---
 layout: page
-title: France
+title: UC Berkeley
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: France
+locations: UC Berkeley
 search_omit: true
 ---
