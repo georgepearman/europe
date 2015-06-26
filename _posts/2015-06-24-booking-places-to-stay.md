@@ -176,7 +176,7 @@ our time at the beach anyways!
 We're very close to public transportation and about 1 kilometer from the beach.
 
 <figure>
-	<figcaption><a href="{{site.url}}/images/airbnb_post/nice_map.png" title="Approximate location of our nice Airbnb"><img src="{{site.url}}/images/airbnb_post/nice_map.png" alt="image"><i>Approximate location of our Nice Airbnb</i></a>.</figcaption>
+	<figcaption><a href="{{site.url}}/images/airbnb_post/nice_map.png" title="Approximate location of our Nice Airbnb"><img src="{{site.url}}/images/airbnb_post/nice_map.png" alt="image"><i>Approximate location of our Nice Airbnb</i></a>.</figcaption>
 </figure>
 
 ---
