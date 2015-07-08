@@ -38,12 +38,12 @@ a [Starbucks](http://www.starbucks.com) for a second breakfast.  I got
 a regular coffee and what I thought to be a breakfast sandwich.  The sandwich
 was actually just a sausage sandwich, which was good, and came with brown
 sauce.  The Starbucks coffee here wasn't extremely hot like in the United States and it
-came in a regular mug.  I also saw a sign that implied that frappacinos are only
+came in a regular mug.  I also saw a sign that implied that frappucinos are only
 available in the summer in the UK.
 
 <figure class="half">
 	<a href="{{site.url}}/images/sherfield/4.jpg" title="Second breakfast"><img src="{{site.url}}/images/sherfield/4.jpg" alt="image"></a>
-	<a href="{{site.url}}/images/sherfield/5.jpg" title="Frappacinos are only in the summer?"><img src="{{site.url}}/images/sherfield/5.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/sherfield/5.jpg" title="Frappucinos are only in the summer?"><img src="{{site.url}}/images/sherfield/5.jpg" alt="image"></a>
 </figure>
 
 I had more time to kill, so I visited a nearby [Vodafone](http://www.vodafone.co.uk/a-home/index.htm) to get a UK SIM card.
