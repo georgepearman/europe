@@ -8,7 +8,7 @@ tags: [England, family, travel, food]
 comments: true
 share: true
 image:
-  feature: 18.jpg
+  feature: stonehenge/18.jpg
   credit: George Pearman
   creditlink: http://georgepearman.com
 ---
