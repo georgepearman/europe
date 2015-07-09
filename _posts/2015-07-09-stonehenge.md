@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Salisbury Plain"
-excerpt: "asdfasdfa"
+excerpt: "George visits Woodhenge, Stonehenge, Devizes, Avebury, and
+Marlborough"
 categories: England
 tags: [England, family, travel, food]
 comments: true
