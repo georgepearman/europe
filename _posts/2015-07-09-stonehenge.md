@@ -107,7 +107,7 @@ I took this panorama of the Caen Hill Locks on the way back to the car:
 </figure>
 ---
 
-On the way home we passed through [Avebury](https://en.wikipedia.org/wiki/Avebury) and looked at the stones from the car.  We also passed through [Marlborough](https://en.wikipedia.org/wiki/Marlborough,_Wiltshire), which contains the second widest road in England:
+On the way home we passed through [Avebury](https://en.wikipedia.org/wiki/Avebury) and looked at the stones from the car.  We also saw a [White Horse](http://www.visitwiltshire.co.uk/explore/the-great-outdoors/white-horses) and passed through [Marlborough](https://en.wikipedia.org/wiki/Marlborough,_Wiltshire), which contains the second widest road in England:
 
 <figure>
 	<a href="{{site.url}}/images/stonehenge/33.jpg" title="Second widest road in England"><img src="{{site.url}}/images/stonehenge/33.jpg" alt="image"></a>
