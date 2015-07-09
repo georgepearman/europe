@@ -90,8 +90,8 @@ Next we drove to Devizes to have a picnic lunch near the [Caen Hill Locks](https
 	<a href="{{site.url}}/images/stonehenge/22.jpg" title="Locks"><img src="{{site.url}}/images/stonehenge/22.jpg" alt="image"></a>
 </figure>
 <figure class="half">
-	<a href="{{site.url}}/images/stonehenge/25.jpg" title="Locks"><img src="{{site.url}}/images/stonehenge/25.jpg" alt="image"></a>
-	<a href="{{site.url}}/images/stonehenge/26.jpg" title="Locks"><img src="{{site.url}}/images/stonehenge/26.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/stonehenge/25.jpg" title="Boat in a lock"><img src="{{site.url}}/images/stonehenge/25.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/stonehenge/26.jpg" title="Boat in a lock"><img src="{{site.url}}/images/stonehenge/26.jpg" alt="image"></a>
 </figure>
 
 After lunch we walked up the hill to get an ice cream from a cafe at the top:
@@ -107,7 +107,7 @@ I took this panorama of the Caen Hill Locks on the way back to the car:
 </figure>
 ---
 
-On the way home we passed through [Avebury](https://en.wikipedia.org/wiki/Avebury) and looked at the stones from the car.  We also passed through [Marlborough](https://en.wikipedia.org/wiki/Marlborough,\_Wiltshire), which contains the second widest road in England:
+On the way home we passed through [Avebury](https://en.wikipedia.org/wiki/Avebury) and looked at the stones from the car.  We also passed through [Marlborough](https://en.wikipedia.org/wiki/Marlborough,_Wiltshire), which contains the second widest road in England:
 
 <figure>
 	<a href="{{site.url}}/images/stonehenge/33.jpg" title="Second widest road in England"><img src="{{site.url}}/images/stonehenge/33.jpg" alt="image"></a>
