@@ -24,7 +24,7 @@ Station](https://en.wikipedia.org/wiki/London_Waterloo_station) around 10:30 AM
 and got a coffee from [Costa Coffee](http://www.costa.co.uk), which is a chain
 I've only seen in England so far, and seems like a competitor to Starbucks.
 
-Grandma Val and I (and everyone else in London) had arrange to meet under
+Grandma Val and I (and everyone else in London) had arranged to meet under
 a large clock in Waterloo:
 
 <figure>
