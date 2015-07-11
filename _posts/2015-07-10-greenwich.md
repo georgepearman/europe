@@ -45,11 +45,9 @@ sunscreen, mom) smudge on my phone's camera lens:
 
 I did manage to notice the smudge and take a few more photos:
 
-<figure class="third">
+<figure class="half">
 	<a href="{{site.url}}/images/greenwich/2.jpg" title="Saint Paul's Catherdral"><img src="{{site.url}}/images/greenwich/2.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/greenwich/6.jpg" title="Tower Bridge"><img src="{{site.url}}/images/greenwich/6.jpg" alt="image"></a>
-</figure>
-<figure class="half">
 	<a href="{{site.url}}/images/greenwich/7.jpg" title="Mayors Office"><img src="{{site.url}}/images/greenwich/7.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/greenwich/8.jpg" title="Don't remember what this is"><img src="{{site.url}}/images/greenwich/8.jpg" alt="image"></a>
 </figure>
@@ -67,7 +65,7 @@ Union](http://www.greenwichunion.com) which I found on [Yelp](http://www.yelp.co
 	<a href="{{site.url}}/images/greenwich/13.jpg" title="The Greenwich Union"><img src="{{site.url}}/images/greenwich/13.jpg" alt="image"></a>
 </figure>
 
-We we're looking at the beer menu and before we decided what we wanted, they
+While we were looking at the beer menu and deciding what we wanted, the waiter
 came out with four beers for us to taste.  In the end Grandma got the wheat
 beer and I got [Fool's Gold](http://www.meantimebrewing.com/our-beers/limited-edition/beer/shortlist-fools-gold/).  We both got a [Ploughman's Lunch](https://en.wikipedia.org/wiki/Ploughman%27s_lunch) to eat.
 
@@ -77,7 +75,7 @@ beer and I got [Fool's Gold](http://www.meantimebrewing.com/our-beers/limited-ed
 	<a href="{{site.url}}/images/greenwich/12.jpg" title="Ploughman's Lunch"><img src="{{site.url}}/images/greenwich/12.jpg" alt="image"></a>
 </figure>
 
-Next we went to the [National Maritime Museum](https://en.wikipedia.org/wiki/National_Maritime_Museum).  While there I saw a boat that wished it was a spaceship and a big replica engine:
+Next we went to the [National Maritime Museum](https://en.wikipedia.org/wiki/National_Maritime_Museum).  While there I saw a boat that wished it was a spaceship, and a big replica engine:
 
 <figure class="half">
 	<a href="{{site.url}}/images/greenwich/14.jpg" title="Spaceship Boat"><img src="{{site.url}}/images/greenwich/14.jpg" alt="image"></a>
@@ -100,5 +98,10 @@ My favorite part of the dinner was the [onion bhaji](http://www.bbc.co.uk/food/r
 	<a href="{{site.url}}/images/greenwich/20.jpg" title="Onion Bhaji"><img src="{{site.url}}/images/greenwich/20.jpg" alt="image"></a>
 </figure>
 
-After dinner Grandma Val, Uncle Richard, and I sat outside around a outdoor
+After dinner, Grandma Val, Uncle Richard, and I sat outside around a outdoor
 furnace while Bronwen played guitar and sang.
+
+<figure class="half">
+	<a href="{{site.url}}/images/greenwich/21.jpg" title="Sitting Outside"><img src="{{site.url}}/images/greenwich/21.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/greenwich/22.jpg" title="Sitting Outside"><img src="{{site.url}}/images/greenwich/22.jpg" alt="image"></a>
+</figure>
