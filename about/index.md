@@ -24,4 +24,4 @@ a line](mailto:georgepearman@me.com)!
 
 After Europe, [George](http://georgepearman.com) will start work at [LinkedIn](https://www.linkedin.com),
 [Vikram](http://www.vikrams.io) will continue his work at the [AMPLab](https://amplab.cs.berkeley.edu),
-and [Garrett](http://garrettf.com) will join [Pivotal Labs](http://pivotallabs.com).
+and [Garrett](http://garrettf.com) will join [Stripe](https://stripe.com/).
