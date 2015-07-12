@@ -27,7 +27,7 @@ I've only seen in England so far, and seems like a competitor to Starbucks.
 Grandma Val and I (and everyone else in London) had arranged to meet under
 a large clock in Waterloo:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/greenwich/1.jpg" title="Big clock at Waterloo Station"><img src="{{site.url}}/images/greenwich/1.jpg" alt="image"></a>
 </figure>
 
@@ -54,14 +54,14 @@ I did manage to notice the smudge and take a few more photos:
 
 I took this photo of the [Cutty Sark](https://en.wikipedia.org/wiki/Cutty_Sark) as we approached Greenwich:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/greenwich/9.jpg" title="Cutty Sark from the Thames"><img src="{{site.url}}/images/greenwich/9.jpg" alt="image"></a>
 </figure>
 
 Grandma Val and I immediately headed to lunch.  We went to [The Greenwich
 Union](http://www.greenwichunion.com) which I found on [Yelp](http://www.yelp.co.uk/biz/the-greenwich-union-london):
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/greenwich/13.jpg" title="The Greenwich Union"><img src="{{site.url}}/images/greenwich/13.jpg" alt="image"></a>
 </figure>
 
@@ -87,7 +87,7 @@ Next we went to the [National Maritime Museum](https://en.wikipedia.org/wiki/Nat
 After London, Grandma Val and I headed back to Feltham.  We had an indian
 takeaway for dinner:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/greenwich/18.jpg" title="Indian Takeaway"><img src="{{site.url}}/images/greenwich/18.jpg" alt="image"></a>
 </figure>
 

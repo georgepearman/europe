@@ -49,7 +49,7 @@ from that point forward.  I climbed a small mound (which contained at least
 1 dead person) and got a picture. Here's what the area around Stonehenge looks
 like:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/8.jpg" title="Salisbury Plain"><img src="{{site.url}}/images/stonehenge/8.jpg" alt="image"></a>
 </figure>
 
@@ -63,19 +63,19 @@ site:
 
 I found a stone that seemed to have forgotten where it was supposed to be:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/12.jpg" title="Lost stone"><img src="{{site.url}}/images/stonehenge/12.jpg" alt="image"></a>
 </figure>
 
 A panoramic photograph turned out fairly well:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/18.jpg" title="Stonehendge"><img src="{{site.url}}/images/stonehenge/18.jpg" alt="image"></a>
 </figure>
 
 I also saw a lot of (mostly German) tourists:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/19.jpg" title="Lots of people at Stonehenge"><img src="{{site.url}}/images/stonehenge/19.jpg" alt="image"></a>
 </figure>
 
@@ -83,7 +83,7 @@ Back at the tourist center we looked at some huts, which would have been
 located near Woodhenge and would have been occupied by the people that built
 Stonehenge:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/20.jpg" title="Huts"><img src="{{site.url}}/images/stonehenge/20.jpg" alt="image"></a>
 </figure>
 
@@ -94,28 +94,26 @@ Next we drove to Devizes to have a picnic lunch near the [Caen Hill Locks](https
 <figure class="half">
 	<a href="{{site.url}}/images/stonehenge/21.jpg" title="Locks"><img src="{{site.url}}/images/stonehenge/21.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/stonehenge/22.jpg" title="Locks"><img src="{{site.url}}/images/stonehenge/22.jpg" alt="image"></a>
-</figure>
-<figure class="half">
 	<a href="{{site.url}}/images/stonehenge/25.jpg" title="Boat in a lock"><img src="{{site.url}}/images/stonehenge/25.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/stonehenge/26.jpg" title="Boat in a lock"><img src="{{site.url}}/images/stonehenge/26.jpg" alt="image"></a>
 </figure>
 
 After lunch we walked up the hill to get an ice cream from a cafe at the top:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/27.jpg" title="Small cafe at the top"><img src="{{site.url}}/images/stonehenge/27.jpg" alt="image"></a>
 </figure>
 
 I took this panorama of the Caen Hill Locks on the way back to the car:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/30.jpg" title="Caen Hill Locks"><img src="{{site.url}}/images/stonehenge/30.jpg" alt="image"></a>
 </figure>
 ---
 
 On the way home we passed through [Avebury](https://en.wikipedia.org/wiki/Avebury) and looked at the stones from the car.  We also saw a [White Horse](http://www.visitwiltshire.co.uk/explore/the-great-outdoors/white-horses) and passed through [Marlborough](https://en.wikipedia.org/wiki/Marlborough,_Wiltshire), which contains the second widest road in England:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/33.jpg" title="Second widest road in England"><img src="{{site.url}}/images/stonehenge/33.jpg" alt="image"></a>
 </figure>
 

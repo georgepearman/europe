@@ -12,7 +12,7 @@ I woke up around 6 AM (jet-lag not too bad) and had a cup of tea and some
 [Weetabix](http://www.weetabix.co.uk).  I watched the news with Angharad and then left at about 8:45 AM.
 This is what my walk looked like:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/sherfield/1.jpg" title="Feltham"><img src="{{site.url}}/images/sherfield/1.jpg" alt="image"></a>
 </figure>
 
@@ -20,14 +20,14 @@ Along the way I saw a [Nando's](http://www.nandos.co.uk) which Angharad has
 been saying is really good.  I also saw Vietnamese and Indian food right next
 to each other:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/sherfield/2.jpg" title="Feltham"><img src="{{site.url}}/images/sherfield/2.jpg" alt="image"></a>
 </figure>
 
 I was intrigued by the crosswalks here because they have a stopping point in
 the middle of the street with independent lights on each side:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/sherfield/3.jpg" title="Crosswalk with center section"><img src="{{site.url}}/images/sherfield/3.jpg" alt="image"></a>
 </figure>
 
@@ -53,7 +53,7 @@ I got on a 10:16 AM train to Reading and read some of [The Cuckoo's Calling](htt
 For lunch we had some homemade tomato soup and cheese sandwiches.  The food was
 delicious:
 
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/sherfield/6.jpg" title="Homemade tomato soup"><img src="{{site.url}}/images/sherfield/6.jpg" alt="image"></a>
 </figure>
 

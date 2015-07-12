@@ -29,7 +29,7 @@ and will be staying there for the initial two nights of our trip.
 All of the places within our budget are about 30 minutes from the center of
 London when using public transportation.
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map1.png" title="Approximate location of our first London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map1.png" alt="image"><i>Approximate location of our first London Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ since we can check in at any time.
 We're located close to a freeway, but are planning to use our rental car to
 visit the city during the evening once we're situated.
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/newcastle_map.png" title="Approximate location of our Newcastle Hotel"><img src="{{site.url}}/images/airbnb_post/newcastle_map.png" alt="image"><i>Approximate location of our Newcastle Hotel</i></a>.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ visit the city during the evening once we're situated.
 
 We found an Airbnb located close to the [University of Edinburgh](http://www.ed.ac.uk/home).
 
-<figure>
+<figure  class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/edinburgh_map.png" title="Approximate location of our Edinburgh Airbnb"><img src="{{site.url}}/images/airbnb_post/edinburgh_map.png" alt="image"><i>Approximate location of our Edinburgh Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ We found an Airbnb located close to the [University of Edinburgh](http://www.ed.
 
 Our hotel in Glasgow is in (what we think to be) a great location!
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/glasgow_map.png" title="Approximate location of our Glasgow Hotel"><img src="{{site.url}}/images/airbnb_post/glasgow_map.png" alt="image"><i>Approximate location of our Glasgow Hotel</i></a>.</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ gets the cot!
 Once again we found accommodation in London with around a 30 minute commute to
 the center of the city.
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/london_map2.png" title="Approximate location of our second London Airbnb"><img src="{{site.url}}/images/airbnb_post/london_map2.png" alt="image"><i>Approximate location of our second London Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -117,7 +117,7 @@ Vikram was interested in staying in Le Marais and described it as:
 I definitely want to walk around the other neighborhoods in Paris to get a feel
 for the different areas.
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/paris_map.png" title="Approximate location of our Paris Airbnb"><img src="{{site.url}}/images/airbnb_post/paris_map.png" alt="image"><i>Approximate location of our Paris Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ Saône](https://en.wikipedia.org/wiki/Saône) and [La
 Rhône](https://en.wikipedia.org/wiki/Rhône).  It is also conveniently located
 near a lot of public transportation.
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/lyon_map.png" title="Approximate location of our Lyon Airbnb"><img src="{{site.url}}/images/airbnb_post/lyon_map.png" alt="image"><i>Approximate location of our Lyon Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -155,7 +155,7 @@ The Airbnb that we found in Marseille is extremely close to the [Vieux-Port de
 Marseille](https://en.wikipedia.org/wiki/Old_Port_of_Marseille).  As a big fan
 of *The Count of Monte Cristo*, I'm excited to see this location!
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/marseille_map.png" title="Approximate location of our Marseille Airbnb"><img src="{{site.url}}/images/airbnb_post/marseille_map.png" alt="image"><i>Approximate location of our Marseille Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -175,7 +175,7 @@ our time at the beach anyways!
 
 We're very close to public transportation and about 1 kilometer from the beach.
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/nice_map.png" title="Approximate location of our Nice Airbnb"><img src="{{site.url}}/images/airbnb_post/nice_map.png" alt="image"><i>Approximate location of our Nice Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -194,7 +194,7 @@ The Milan Airbnb looks gorgeous!
 
 Our Milan Airbnb is less than half a mile from the city center:
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/milan_map.png" title="Approximate location of our Milan Airbnb"><img src="{{site.url}}/images/airbnb_post/milan_map.png" alt="image"><i>Approximate location of our Milan Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -216,7 +216,7 @@ somewhat far away and leave the car there for the duration of our stay in
 Florence.  We will probably drive further into the countryside at least one day
 while staying in Florence. 
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/florence_map.png" title="Approximate location of our Florence Airbnb"><img src="{{site.url}}/images/airbnb_post/florence_map.png" alt="image"><i>Approximate location of our Florence Airbnb</i></a>.</figcaption>
 </figure>
 
@@ -236,7 +236,7 @@ Here are some pictures of the place we are staying at while in Rome:
 This Rome Airbnb is located in a fairly central part of the city.  We're
 excited that most everything is within walking distance.
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/airbnb_post/rome_map.png" title="Approximate location of our Rome Airbnb" alt="image"><img src="{{site.url}}/images/airbnb_post/rome_map.png" alt="image"><i>Approximate location of our Rome Airbnb</i></a>.</figcaption>
 </figure>
 

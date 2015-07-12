@@ -28,7 +28,7 @@ circled around Heathrow for about 20 minutes.
 After we arrived, we had to wait for another 15 minutes to find a parking spot
 for the plane.  Then of course, I needed to see if they would let me in the
 country:
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/george_arrives/5.jpg" title="Let me in!"><img src="{{site.url}}/images/george_arrives/5.jpg" alt="image"></a>
 </figure>
 

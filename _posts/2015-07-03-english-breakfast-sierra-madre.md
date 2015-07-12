@@ -13,6 +13,6 @@ members prior to Garrett and Vikram's arrival.  To prepare for my trip to
 England, I had an english breakfast at [Lucky Baldwin's](http://www.luckybaldwins.com)
 in Sierra Madre with my family this morning!
 
-<figure>
+<figure class="full">
 	<figcaption><a href="{{site.url}}/images/english_breakfast_la/IMG_1433.jpg" title="English breakfast in Sierra Madre, CA!"><center><img src="{{site.url}}/images/english_breakfast_la/IMG_1433.jpg" alt="image"></center><center><i>English breakfast in Sierra Madre, CA!</i></center></a>.</figcaption>
 </figure>
