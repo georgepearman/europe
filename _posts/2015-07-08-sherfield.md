@@ -3,7 +3,7 @@ layout: post
 title: "Traveling to Grandma Kay's House"
 excerpt: "George goes to Grandma Kay's house to eat delicious tomato soup"
 categories: England
-tags: [England, family, travel, food]
+tags: [family, travel, food]
 comments: true
 share: true
 ---

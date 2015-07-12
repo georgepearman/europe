@@ -3,7 +3,7 @@ layout: post
 title: "Greenwich"
 excerpt: "George and Grandma Val go into London and Greenwich"
 categories: England
-tags: [England, family, travel, food]
+tags: [family, travel, food]
 comments: true
 share: true
 image:

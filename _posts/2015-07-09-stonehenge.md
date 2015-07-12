@@ -4,7 +4,7 @@ title: "Salisbury Plain"
 excerpt: "George visits Woodhenge, Stonehenge, Devizes, Avebury, and
 Marlborough"
 categories: England
-tags: [England, family, travel, food]
+tags: [family, travel, food]
 comments: true
 share: true
 image:

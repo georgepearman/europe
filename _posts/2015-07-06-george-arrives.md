@@ -4,7 +4,7 @@ title: "George Arrives in England"
 excerpt: "I flew to England and spent the first day with my Uncle, Aunt,
 Cousins, and Grandma"
 categories: England
-tags: [England, family, travel, food]
+tags: [family, travel, food]
 comments: true
 share: true
 ---
