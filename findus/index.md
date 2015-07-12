@@ -1,7 +1,7 @@
 ---
 layout: page
-title: UC Berkeley
+title: Bletchley park 
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: UC Berkeley
+locations: Bletchley park 
 search_omit: true
 ---
