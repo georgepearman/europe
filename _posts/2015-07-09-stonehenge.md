@@ -32,7 +32,7 @@ Grandma Kay's friend Margaret picked us up around 8:30 and we drove towards
 	<a href="{{site.url}}/images/stonehenge/3.jpg" title="Woodhenge"><img src="{{site.url}}/images/stonehenge/3.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/stonehenge/4.jpg" title="Woodhenge"><img src="{{site.url}}/images/stonehenge/4.jpg" alt="image"></a>
 </figure>
-<figure>
+<figure class="full">
 	<a href="{{site.url}}/images/stonehenge/6.jpg" title="Panoramic picture from the center of Woodhenge"><img src="{{site.url}}/images/stonehenge/6.jpg" alt="image"></a>
 </figure>
 
