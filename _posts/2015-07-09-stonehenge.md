@@ -8,9 +8,9 @@ tags: [family, travel, food]
 comments: true
 share: true
 image:
-  feature: stonehenge/18.jpg
-  credit: George Pearman
-  creditlink: http://georgepearman.com
+  feature: stonehenge/cover.jpg
+  credit: Pintaw
+  creditlink: http://pintaw.com/images/wallpapers/Stonehenge-Wallpaper.jpg
 ---
 
 I woke up around 6 AM again.  Grandma Kay and I had cereal and toast with
@@ -65,6 +65,12 @@ I found a stone that seemed to have forgotten where it was supposed to be:
 
 <figure>
 	<a href="{{site.url}}/images/stonehenge/12.jpg" title="Lost stone"><img src="{{site.url}}/images/stonehenge/12.jpg" alt="image"></a>
+</figure>
+
+A panoramic photograph turned out fairly well:
+
+<figure>
+	<a href="{{site.url}}/images/stonehenge/18.jpg" title="Stonehendge"><img src="{{site.url}}/images/stonehenge/18.jpg" alt="image"></a>
 </figure>
 
 I also saw a lot of (mostly German) tourists:
