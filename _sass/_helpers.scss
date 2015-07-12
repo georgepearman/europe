@@ -64,6 +64,20 @@
 
 figure {
 
+  &.full {
+      @include media($large) {
+      img {
+        width: 97.75%;
+        float: left;
+        margin-right: 2.5%;
+        margin-bottom: 2.5%;
+      }
+      figcaption {
+        clear: left;
+      }
+    }
+  }
+
   /* 2 images in a row. should be of equal height/width to maintain layout */
 
   &.half {
