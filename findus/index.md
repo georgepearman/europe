@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bletchley park 
+title: Windsor, UK
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Bletchley park 
+locations: Windsor, UK
 search_omit: true
 ---
