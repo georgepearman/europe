@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Windsor, UK
+title: The London Film Museum
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Windsor, UK
+locations: The London Film Museum
 search_omit: true
 ---
