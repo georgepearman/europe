@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cittie of Yorke, London 
+title: Seven Sisters, London
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Cittie of Yorke, London 
+locations: Seven Sisters, London
 search_omit: true
 ---
