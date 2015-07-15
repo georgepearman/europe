@@ -1,7 +1,7 @@
 ---
 layout: page
-title: London Heathrow Airport
+title: Cittie of Yorke
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: London Heathrow Airport
+locations: Cittie of Yorke
 search_omit: true
 ---
