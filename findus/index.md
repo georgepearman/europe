@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shakespeare's Globe
+title: The Anchor, London 
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Shakespeare's Globe
+locations: The Anchor, London 
 search_omit: true
 ---
