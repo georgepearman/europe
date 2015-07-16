@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Seven Sisters Underground, London
+title: Shakespeare's Globe
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Seven Sisters Underground, London
+locations: Shakespeare's Globe
 search_omit: true
 ---
