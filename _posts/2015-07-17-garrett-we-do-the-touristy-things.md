@@ -68,4 +68,6 @@ Even when advertising them at the tables. From the looks of it, the locals just
 order beer and the occasional glass of wine at pubs. We've had some confusing
 conversations simply for ordering sides.
 
-Then we crashed.
+Then we crashed. I'd say yesterday was less enlightening. See [George's
+post](http://georgepearman.com/europe/england/george-london-day-two/) for more
+details
