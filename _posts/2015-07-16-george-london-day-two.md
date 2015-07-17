@@ -18,7 +18,8 @@ Underground at [Victoria Station](https://en.wikipedia.org/wiki/London_Victoria_
 
 Our first stop on the route was a [Caffé
 Nero](http://www.caffenero.co.uk/default.aspx).  Vikram got an Americano and
-I got a double espresso.
+I got a double espresso. As I write this, I realize that we are addicted to
+coffee.
 
 <figure class="full">
 	<a href="{{site.url}}/images/day_2/2.jpg" title="Caffé Nero"><img src="{{site.url}}/images/day_2/2.jpg" alt="image"></a>
