@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Copper Kettle, Cambridge, UK
+title: La Bottega Milanese, Leeds
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Copper Kettle, Cambridge, UK
+locations: La Bottega Milanese, Leeds
 search_omit: true
 ---
