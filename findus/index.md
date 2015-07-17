@@ -1,7 +1,7 @@
 ---
 layout: page
-title: La Bottega Milanese, Leeds
+title: Newcastle, UK 
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: La Bottega Milanese, Leeds
+locations: Newcastle, UK 
 search_omit: true
 ---
