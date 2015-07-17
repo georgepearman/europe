@@ -35,7 +35,7 @@ Here's our route:
 	<a href="{{site.url}}/images/day_3/route.png" title="Our route after breakfast"><img src="{{site.url}}/images/day_3/route.png" alt="image"></a>
 </figure>
 
-...and here's some <s>photos</s> panoramas:
+...and here are some <s>photos</s> panoramas:
 
 <figure class="full">
 	<a href="{{site.url}}/images/day_3/4.jpg" title="Cambridge"><img src="{{site.url}}/images/day_3/4.jpg" alt="image"></a>
@@ -84,7 +84,7 @@ to spend more time in the town.
 ---
 
 Stopping along the road allowed us to take some photos of the beautiful countryside.
-Here's the <s>photos</s> panoramas I took:
+Here are the <s>photos</s> panoramas I took:
 
 <figure class="full">
 	<a href="{{site.url}}/images/day_3/36.jpg" title="English Countryside"><img src="{{site.url}}/images/day_3/36.jpg" alt="image"></a>
