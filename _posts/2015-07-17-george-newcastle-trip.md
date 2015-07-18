@@ -6,7 +6,7 @@ places"
 categories: [England, Scotland]
 tags: [friends, travel, food]
 comments: true
-date: 2015-07-17 23:00:00
+date: 2015-07-17 22:00:00
 image:
   feature: day_3/cover.jpg
   credit: George Pearman
