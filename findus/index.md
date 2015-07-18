@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Newcastle, UK 
+title: Edinburgh
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Newcastle, UK 
+locations: Edinburgh
 search_omit: true
 ---
