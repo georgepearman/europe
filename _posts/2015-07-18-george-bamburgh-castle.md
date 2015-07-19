@@ -36,10 +36,10 @@ Our first stop along our route to [Edinburgh](https://en.wikipedia.org/wiki/Edin
 After drinking some caffeine we explored the treehouse more, finding cool rope
 bridges:
 
-<figure class="full">
-	<a href="{{site.url}}/images/day_4/12.jpg" title="Vikram on a bridge"><img style="margin-bottom:0px;"  src="{{site.url}}/images/day_4/12.jpg" alt="image"></a>
+<figure class="full" style="padding-bottom:0px">
+	<a href="{{site.url}}/images/day_4/12.jpg" title="Vikram on a bridge"><img src="{{site.url}}/images/day_4/12.jpg" alt="image"></a>
 </figure>
-<figure class="half">
+<figure class="half" style="padding-top:0px">
 	<a href="{{site.url}}/images/day_4/13.jpg" title="Selfies on a bridge"><img src="{{site.url}}/images/day_4/13.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/day_4/14.jpg" title="Selfies on a bridge"><img src="{{site.url}}/images/day_4/14.jpg" alt="image"></a>
 </figure>
@@ -48,18 +48,18 @@ bridges:
 
 We took a random turn off the road, and found ourselves at [Bamburgh Castle](http://www.bamburghcastle.com):
 
-<figure class="full">
+<figure class="full" style="padding-bottom:0px">
 	<a href="{{site.url}}/images/day_4/17.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/17.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/day_4/18.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/18.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/day_4/20.jpg" title="View from Bamburgh Castle"><img src="{{site.url}}/images/day_4/20.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/day_4/21.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/21.jpg" alt="image"></a>
-	<a href="{{site.url}}/images/day_4/22.jpg" title="Bamburgh Castle"><img style="margin-bottom:0px;" src="{{site.url}}/images/day_4/22.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/day_4/22.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/22.jpg" alt="image"></a>
 </figure>
-<figure class="half">
-	<a href="{{site.url}}/images/day_4/19.jpg" title="Bamburgh Castle"><img style="margin-bottom:0px;" src="{{site.url}}/images/day_4/19.jpg" alt="image"></a>
-	<a href="{{site.url}}/images/day_4/23.jpg" title="Bamburgh Castle"><img style="margin-bottom:0px;" src="{{site.url}}/images/day_4/23.jpg" alt="image"></a>
+<figure class="half" style="padding-top:0px; padding-bottom:0px;">
+	<a href="{{site.url}}/images/day_4/19.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/19.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/day_4/23.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/23.jpg" alt="image"></a>
 </figure>
-<figure class="full">
+<figure class="full" style="padding-top:0px">
 	<a href="{{site.url}}/images/day_4/24.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/24.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/day_4/25.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/25.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/day_4/26.jpg" title="Bamburgh Castle"><img src="{{site.url}}/images/day_4/26.jpg" alt="image"></a>

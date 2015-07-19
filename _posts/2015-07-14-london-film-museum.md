@@ -125,12 +125,13 @@ with a wireless chip in it.  I had neither.  Supposedly [Apple Pay](https://tfl.
 
 Here's some pictures that I took while outside Saint Paul's Cathedral.
 
-<figure class="full">
-	<a href="{{site.url}}/images/film_museum/42.jpg" title="Saint Paul's Cathedral"><img style="margin-bottom:0px;" src="{{site.url}}/images/film_museum/42.jpg" alt="image"></a>
-</figure> <figure class="half">
-	<a href="{{site.url}}/images/film_museum/32.jpg" title="Saint Paul's Cathedral"><img style="margin-bottom:0px;"  src="{{site.url}}/images/film_museum/32.jpg" alt="image"></a>
-	<a href="{{site.url}}/images/film_museum/37.jpg" title="Saint Paul's Cathedral"><img style="margin-bottom:0px;"  src="{{site.url}}/images/film_museum/37.jpg" alt="image"></a>
-</figure> <figure class="full">
+<figure class="full" style="padding-bottom:0px">
+	<a href="{{site.url}}/images/film_museum/42.jpg" title="Saint Paul's Cathedral"><img src="{{site.url}}/images/film_museum/42.jpg" alt="image"></a>
+</figure>
+<figure class="half" style="padding-top:0px; padding-bottom:0px;">
+	<a href="{{site.url}}/images/film_museum/32.jpg" title="Saint Paul's Cathedral"><img src="{{site.url}}/images/film_museum/32.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/film_museum/37.jpg" title="Saint Paul's Cathedral"><img src="{{site.url}}/images/film_museum/37.jpg" alt="image"></a>
+</figure> <figure class="full" style="padding-top:0px;">
 	<a href="{{site.url}}/images/film_museum/34.jpg" title="Saint Paul's Cathedral"><img src="{{site.url}}/images/film_museum/34.jpg" alt="image"></a>
 </figure>
 
