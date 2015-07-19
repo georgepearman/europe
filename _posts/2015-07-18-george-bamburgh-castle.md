@@ -33,7 +33,7 @@ Our first stop along our route to [Edinburgh](https://en.wikipedia.org/wiki/Edin
 	<a href="{{site.url}}/images/day_4/11.jpg" title="Treehouse bridge"><img src="{{site.url}}/images/day_4/11.jpg" alt="image"></a>
 </figure>
 
-After drinking some caffeine we explore the treehouse more, finding cool rope
+After drinking some caffeine we explored the treehouse more, finding cool rope
 bridges:
 
 <figure class="full">
@@ -76,7 +76,7 @@ We stopped for lunch in the town.  I had a [Ploughman's Lunch](https://en.wikipe
     <figcaption>Delicious lunch at the Lord Creme Hotel in Bamburgh</figcaption>
 </figure>
 
-After lunch relaxed by the big grass area, and then walked up a mound to take
+After lunch we relaxed by the big grass area, and then walked up a mound to take
 some more photographs.
 
 <figure class="full">
@@ -88,5 +88,5 @@ some more photographs.
 
 ---
 
-We arrived in Edinburgh later.  After returning the car to Sixt at the airpost,
+We arrived in Edinburgh later.  After returning the car to Sixt at the airport,
 we took a bus back to town and explored.
