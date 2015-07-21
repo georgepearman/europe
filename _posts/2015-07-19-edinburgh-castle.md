@@ -108,4 +108,4 @@ here's a street corner in the rain:
 
 We ended the day with a relaxing couple of hours in the Airbnb, where we played
 cards before dinner.  We ate dinner at an Indian restaurant that we wouldn't
-visit again.  We ended the night at [The Southsider](http://www.thesouthsiderpub.co.uk) where we watched professional darts and argued about nerdy computer science stuff.
+visit again.  The night finished at [The Southsider](http://www.thesouthsiderpub.co.uk) where we watched professional darts and argued about nerdy computer science stuff.
