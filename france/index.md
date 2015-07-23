@@ -6,8 +6,6 @@ categories: france
 search_omit: true
 ---
 
-We're not in France yet, stay tuned.
-
 <ul class="post-list">
 {% for post in site.categories.france %} 
 {% if post.author %}
