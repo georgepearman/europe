@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mint and Lime, Glasgow
+title: Paris, France
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Mint and Lime, Glasgow
+locations: Paris, France
 search_omit: true
 ---
