@@ -271,7 +271,7 @@ door to a bakery to get fresh baguettes.  Dinner was eaten at the Airbnb while
 watching more [Would I Lie to You?](https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(TV_series)), our new favorite show.  It was a delicious meal for a small cost.
 
 <figure class="half">
-	<a href="{{site.url}}/images/day_11/66.jpg" title=""><img src="{{site.url}}/images/day_11/66.jpg" alt="image"></a>
-	<a href="{{site.url}}/images/day_11/67.jpg" title=""><img src="{{site.url}}/images/day_11/67.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/day_11/66.jpg" title="Dinner"><img src="{{site.url}}/images/day_11/66.jpg" alt="image"></a>
+	<a href="{{site.url}}/images/day_11/67.jpg" title="Dinner"><img src="{{site.url}}/images/day_11/67.jpg" alt="image"></a>
     <figcaption>Dinner, 10/10 would eat again</figcaption>
 </figure>
