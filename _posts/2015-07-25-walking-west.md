@@ -141,7 +141,7 @@ I must have caused quite a spectacle, because Vikram wanted to get in on the sel
 </figure>
 
 The Arc de Triomphe is quite tall, and the viewing area is quite close, so
-taking good panoramas is quite hard.  So I took some _bad_ panoramas that turned
+taking good panoramas is quite hard (thinking of words synonymous for quite is also somewhat difficult).  So I took some _bad_ panoramas that turned
 out to be pleasingly goofy:
 
 <figure class="full">
