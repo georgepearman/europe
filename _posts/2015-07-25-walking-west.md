@@ -99,7 +99,7 @@ chewy.
 #### [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe)
 
 We turned left at an intersection and saw the (much anticipated) [Arc de
-Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe) !
+Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe)!
 
 <figure class="full">
 	<a href="{{site.url}}/images/day_11/9.jpg" title="Arc de Triomphe"><img src="{{site.url}}/images/day_11/9.jpg" alt="image"></a>
