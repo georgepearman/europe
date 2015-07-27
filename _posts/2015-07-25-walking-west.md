@@ -259,7 +259,7 @@ great atmosphere:
 </figure>
 
 I feel like its worth noting: the Eiffel Tower is __seriously__ huge in
-reality; pictures do not do it justice.  I _highly_ recomment that you see it
+reality; pictures do not do it justice.  I _highly_ recommend that you see it
 in person.
 
 ---

@@ -25,7 +25,7 @@ still warm when I got back to the Airbnb!
 </figure>
 
 This meal was quite filling and kept us going throughout the day.  I relaxed in
-the Airbnb and may or may have taken a nap.  It was very rainy today.  In fact,
+the Airbnb and may or may not have taken a nap.  It was very rainy today.  In fact,
 Vikram went out and later came back completely soaked!
 
 <figure class="full">
