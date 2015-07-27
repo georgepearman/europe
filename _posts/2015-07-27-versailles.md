@@ -9,7 +9,7 @@ date: 2015-07-27 23:00:00
 image:
   feature: day_13/cover.jpg
   credit: George Pearman
-  creditlink: http://georgepearman.com
+  creditlink: http://georgepearman.com/
 share: true
 ---
 
