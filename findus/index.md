@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Paris, France
+title: Lyon, France
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Paris, France
+locations: Lyon, France
 search_omit: true
 ---
