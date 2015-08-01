@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marseille"
-excerpt: ""
+excerpt: "Vikram falls in the harbor"
 categories: france
 tags: [friends, travel, food]
 comments: true
