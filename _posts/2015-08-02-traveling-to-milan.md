@@ -42,7 +42,7 @@ Silkworm](https://en.wikipedia.org/wiki/The_Silkworm) while traveling.
 ---
 
 The next two trains took us to [Genova](https://en.wikipedia.org/wiki/Genoa),
-where we picked up a rental car.  First, we wandered around the in heat with
+where we picked up a rental car.  First, we wandered around in the heat with
 our bags, looking for lunch.
 
 I got a delicious salad.  It had tuna, ham (good Italian ham, if that's
