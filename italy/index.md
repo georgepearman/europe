@@ -6,8 +6,6 @@ search_omit: true
 categories: italy
 ---
 
-There will be content here soon, stay tuned!
-
 <ul class="post-list">
 {% for post in site.categories.italy %} 
 {% if post.author %}
