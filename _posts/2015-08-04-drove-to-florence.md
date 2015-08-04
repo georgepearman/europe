@@ -179,3 +179,4 @@ The sunset looked great!
     <a href="{{site.url}}/images/day_21/87.jpg" title="Sunset, Florence"><img src="{{site.url}}/images/day_21/87.jpg" alt="image"></a>
     <figcaption>The sunset</figcaption>
 </figure>
+
