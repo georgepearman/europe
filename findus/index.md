@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Milan, Italy
+title: Florence, Italy
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Milan, Italy
+locations: Florence, Italy
 search_omit: true
 ---
