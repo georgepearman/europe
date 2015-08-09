@@ -50,11 +50,11 @@ were adapted to work like the enigma machine):
 
 In the museum part of Bletchley Park we saw a restored and visibly working [Bombe machine](https://en.wikipedia.org/wiki/Bombe) that was decoding a (German) message:
 
-<figure class="half">
+<figure class="half" style="padding-bottom:0px">
 	<a href="{{site.url}}/images/bletchley/9.jpg" title="Bombe machine"><img src="{{site.url}}/images/bletchley/9.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/bletchley/10.jpg" title="Behind the Bombe machine"><img src="{{site.url}}/images/bletchley/10.jpg" alt="image"></a>
 </figure>
-<figure class="full">
+<figure class="full" style="padding-top:0px">
 	<a href="{{site.url}}/images/bletchley/13.jpg" title="Bombe machine exhibit panorama"><img src="{{site.url}}/images/bletchley/13.jpg" alt="image"></a>
 	<a href="{{site.url}}/images/bletchley/11.jpg" title="Bombe machine exhibit panorama"><img src="{{site.url}}/images/bletchley/11.jpg" alt="image"></a>
 </figure>
