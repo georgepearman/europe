@@ -169,7 +169,7 @@ I took some selfies with a nearby statue:
 The sunset looked great!
 
 <figure class="full" style="padding-bottom:0px">
-    <video width="100%" controls loop autoplay muted>
+    <video controls loop autoplay muted>
       <source src="{{site.url}}/images/day_21/florence.mp4">
     </video>
 </figure>

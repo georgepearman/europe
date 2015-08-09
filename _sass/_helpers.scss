@@ -75,8 +75,19 @@ figure {
       figcaption {
         clear: left;
       }
+      video {
+        width: 97.75%;
+        float: left;
+        margin-right: 2.5%;
+        margin-bottom: 2.5%;
+      }
     }
   }
+
+  video {
+        width: 100%;
+        float: left;
+      }
 
   /* 2 images in a row. should be of equal height/width to maintain layout */
 

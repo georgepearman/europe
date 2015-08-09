@@ -135,7 +135,7 @@ and these are the pictures I took from the tables:
 I also got this sweet sweet video while sitting at a table:
 
 <figure class="full" style="padding-top:0px">
-    <video width="100%" controls loop autoplay muted>
+    <video controls loop autoplay muted>
       <source src="{{site.url}}/images/day_12/bird.mov">
     </video>
 </figure>

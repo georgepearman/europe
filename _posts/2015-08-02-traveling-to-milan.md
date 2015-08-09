@@ -33,7 +33,7 @@ Silkworm](https://en.wikipedia.org/wiki/The_Silkworm) while traveling.
 
 <figure class="full">
 	<a href="{{site.url}}/images/day_19/4.jpg" title="Spectacular view from the train"><img src="{{site.url}}/images/day_19/4.jpg" alt="image"></a>
-    <video width="100%" controls loop autoplay muted>
+    <video controls loop autoplay muted>
       <source src="{{site.url}}/images/day_19/train.mov">
     </video>
     <figcaption>Spectacular views from the train</figcaption>
