@@ -13,6 +13,9 @@ image:
   creditlink: http://georgepearman.com/
 ---
 
+I wandered around a lot this morning, but unfortunately didn't take too many
+photos.
+
 Here's some pictures along the south bank of the [Arno River](https://en.wikipedia.org/wiki/Arno).  Towards the
 left of the first picture is the [Ponte
 Vecchio](https://en.wikipedia.org/wiki/Ponte_Vecchio).  The Ponte Vecchio seems
