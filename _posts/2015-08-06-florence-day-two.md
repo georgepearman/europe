@@ -72,7 +72,7 @@ was average tasting, but really cheap!
     <figcaption>Carbonara</figcaption>
 </figure>
 
-After lunch I went back to the Airbnb (once again it was way to hot and humid
+After lunch I went back to the Airbnb (once again it was way too hot and humid
 to walk a lot in the afternoon) where I read more of [The Bourne Identity](https://en.wikipedia.org/wiki/The_Bourne_Identity_(novel)).  After some relaxation I went out again and wandered some streets.
 
 ---
