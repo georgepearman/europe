@@ -91,6 +91,8 @@ The afternoon was spent lazying around.  We went to a few shops to look at souve
 
 #### Dinner
 
+Our last meal was at [Felice a Testaccio](http://www.yelp.com/biz/felice-a-testaccio-roma) (our Airbnb host recommended the restaurant).  The best part of the meal was the tonnarelli [cacio e pepe](https://en.wikipedia.org/wiki/Cacio_e_pepe) (pepper and cheese noodles) which was prepared table side and is a typical Roman dish.
+
 <figure class="full" style="padding-bottom:0px">
     <a href="{{site.url}}/images/day_27/2.jpg" title=""><img src="{{site.url}}/images/day_27/2.jpg" alt="image"></a>
 </figure>
