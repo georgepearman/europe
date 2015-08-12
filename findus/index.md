@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rome, Italy
+title: We're home!
 excerpt: "Get a recent location of George, Garrett, and Vikram"
-locations: Rome, Italy
+locations: UC Berkeley
 search_omit: true
 ---
