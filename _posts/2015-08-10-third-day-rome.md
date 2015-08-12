@@ -94,15 +94,15 @@ The afternoon was spent lazying around.  We went to a few shops to look at souve
 Our last meal was at [Felice a Testaccio](http://www.yelp.com/biz/felice-a-testaccio-roma) (our Airbnb host recommended the restaurant).  The best part of the meal was the tonnarelli [cacio e pepe](https://en.wikipedia.org/wiki/Cacio_e_pepe) (pepper and cheese noodles) which was prepared table side and is a typical Roman dish.
 
 <figure class="full" style="padding-bottom:0px">
-    <a href="{{site.url}}/images/day_27/2.jpg" title=""><img src="{{site.url}}/images/day_27/2.jpg" alt="image"></a>
+    <a href="{{site.url}}/images/day_27/2.jpg" title="cacio e pepe"><img src="{{site.url}}/images/day_27/2.jpg" alt="image"></a>
 </figure>
 <figure class="third" style="padding-bottom:0px;padding-top:0px;">
-    <a href="{{site.url}}/images/day_27/3.jpg" title=""><img src="{{site.url}}/images/day_27/3.jpg" alt="image"></a>
-    <a href="{{site.url}}/images/day_27/4.jpg" title=""><img src="{{site.url}}/images/day_27/4.jpg" alt="image"></a>
-    <a href="{{site.url}}/images/day_27/5.jpg" title=""><img src="{{site.url}}/images/day_27/5.jpg" alt="image"></a>
+    <a href="{{site.url}}/images/day_27/3.jpg" title="Lamb cutlets"><img src="{{site.url}}/images/day_27/3.jpg" alt="image"></a>
+    <a href="{{site.url}}/images/day_27/4.jpg" title="Spinach"><img src="{{site.url}}/images/day_27/4.jpg" alt="image"></a>
+    <a href="{{site.url}}/images/day_27/5.jpg" title="Roast lamb"><img src="{{site.url}}/images/day_27/5.jpg" alt="image"></a>
 </figure>
 <figure class="full" style="padding-top:0px">
-    <a href="{{site.url}}/images/day_27/6.jpg" title=""><img src="{{site.url}}/images/day_27/6.jpg" alt="image"></a>
+    <a href="{{site.url}}/images/day_27/6.jpg" title="Tiramisu"><img src="{{site.url}}/images/day_27/6.jpg" alt="image"></a>
 </figure>
 
 ---
@@ -110,8 +110,8 @@ Our last meal was at [Felice a Testaccio](http://www.yelp.com/biz/felice-a-testa
 We went to [Sant’Eustachio Il Caffè](http://www.yelp.com/biz/santeustachio-il-caffè-roma-2) for the second time today.  This time we went at midnight, hoping that the coffee would help us stay awake.
 
 <figure class="half">
-    <a href="{{site.url}}/images/day_27/7.jpg" title=""><img src="{{site.url}}/images/day_27/7.jpg" alt="image"></a>
-    <a href="{{site.url}}/images/day_27/8.jpg" title=""><img src="{{site.url}}/images/day_27/8.jpg" alt="image"></a>
+    <a href="{{site.url}}/images/day_27/7.jpg" title="Sant'Eustachio at night"><img src="{{site.url}}/images/day_27/7.jpg" alt="image"></a>
+    <a href="{{site.url}}/images/day_27/8.jpg" title="Best coffee"><img src="{{site.url}}/images/day_27/8.jpg" alt="image"></a>
 </figure>
 
 ---
